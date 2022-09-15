@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: 6c62fec417b3ee7429d2316af4a8c4a1
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mConnectionArmor
+    second: {fileID: 2100000, guid: 66da0a4b54b57cf42b52833acd388215, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mEye06
+    second: {fileID: 2100000, guid: 76116c6023b0eb44cb85b6e7bee1e59c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mGlassesArmor01
+    second: {fileID: 2100000, guid: 56d9d2d6e3581174892191b86ec6c949, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mGlassesArmor02
+    second: {fileID: 2100000, guid: 8e19e804effcca74fa5b56adfc54f5cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mGlove
+    second: {fileID: 2100000, guid: c04082b4fc0925445867a947752c8f67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mGunArmor01
+    second: {fileID: 2100000, guid: 9b798f9f7f4e4004f92626a3f998ef3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mGunArmor03
+    second: {fileID: 2100000, guid: 8fe850f51aa8eb54b8b9e50a12597c8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mGunArmor04
+    second: {fileID: 2100000, guid: 77ed20f59d1f2ed42b2f4c69378b26ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mHair06
+    second: {fileID: 2100000, guid: d1ae7936ed5f4de489d3f9ee67e8b0d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mHatArmor
+    second: {fileID: 2100000, guid: 12e3acaae012cb545a88b2cb1933d6c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mLips06
+    second: {fileID: 2100000, guid: f887ad31938b8224caf3e771b33787db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mMaskArmor
+    second: {fileID: 2100000, guid: 4fef38644f7d21c419f6f1089eb9ea95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mPantsArmor01
+    second: {fileID: 2100000, guid: 59222b4cf0e52fe479d20502d657a5b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mPantsArmor02
+    second: {fileID: 2100000, guid: 66bff1bfb67616e48a1435c3e923914a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mPantsArmor03
+    second: {fileID: 2100000, guid: 40962e53a4f3bcb42bd3f7c6a3c4f4a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mPantsArmor04
+    second: {fileID: 2100000, guid: 562050e8873dd414991db8ff96d368e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mPantsArmor05
+    second: {fileID: 2100000, guid: 27e415dd8db34ac4ab5f88481e97adf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mPantsArmor06
+    second: {fileID: 2100000, guid: b4c563f7c97aef4408d79b87fd1f6077, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mShirtArmor01
+    second: {fileID: 2100000, guid: e9d0972d4d3047046ba6eea66ca8bf8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mShirtArmor011
+    second: {fileID: 2100000, guid: 79333558aa768ce458860fdcaec37407, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mShirtArmor012
+    second: {fileID: 2100000, guid: 191c4be674a00a147873619aa40e6324, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mShoesCS01
+    second: {fileID: 2100000, guid: 0ea941a7a879f6444b4899ce682ac078, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mShoesCS02
+    second: {fileID: 2100000, guid: e552668e6e5c53943ba9069e0baf2711, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mShoesCS03
+    second: {fileID: 2100000, guid: 912aebeda49441e4bb2ab37a0c0b479c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mSkin05
+    second: {fileID: 2100000, guid: 66e308685600e244d8086a50459c05b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mUnderPantsArmor01
+    second: {fileID: 2100000, guid: fd829926fac647e4bb54bc5a8bbc53b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mUnderPantsArmor011
+    second: {fileID: 2100000, guid: 27939670753483e4fb9b473845a4fcb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mVestArmor01
+    second: {fileID: 2100000, guid: ab43945ced5887047a61cbf68f5b4cf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mVestArmor02
+    second: {fileID: 2100000, guid: 3a53c3d26ea37b641bc17623d636a641, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mVestArmor03
+    second: {fileID: 2100000, guid: 0771a9ee28e9c2d4b999f6b81cb18856, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mVestArmor04
+    second: {fileID: 2100000, guid: a65e6fa9b9b8c0342be256a0f9e329db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mVestArmor05
+    second: {fileID: 2100000, guid: 5b8cbeb93bf097f408ab526c7fe81c61, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

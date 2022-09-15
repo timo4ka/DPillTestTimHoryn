@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: bef8a7b21c919b64cacd1d9b541e6d74
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mEysM02
+    second: {fileID: 2100000, guid: 1f344d4ff8fe08c4c82ca7b1f94b96d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mGlasses
+    second: {fileID: 2100000, guid: 766b334f7b834ec43849424e6f66e00a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mHairM02
+    second: {fileID: 2100000, guid: b036ce39da1af3d48a28e1b93c606cfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mLipsM02
+    second: {fileID: 2100000, guid: 84d8ae221b561ee44b11196f1a361354, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mPantsM01
+    second: {fileID: 2100000, guid: e883fb5d0a7e40b47ac90472f97e6a9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mPantsM011
+    second: {fileID: 2100000, guid: 74e984f0886d3e6488c702d1b1ab8167, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mPantsM012
+    second: {fileID: 2100000, guid: f59c662679da6fa4ba84c1051ed01a36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mPantsM013
+    second: {fileID: 2100000, guid: 0ced2216d48c7bd46ae767c778a13e08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mPantsM02
+    second: {fileID: 2100000, guid: f37077f8490dbe041885ef179b217388, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mPantsM03
+    second: {fileID: 2100000, guid: 34faa4fba3fb22e45a3537c6ea997190, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mShirt03
+    second: {fileID: 2100000, guid: 49cb866220a5e7240a50dfa796587b84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mShirt03.1
+    second: {fileID: 2100000, guid: 6a114c36eb8fd3742bb92cd103ef5b5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mShirt03.2
+    second: {fileID: 2100000, guid: b1bbc5f1a7ac3784fb2f6a90db8e486d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mShirt04
+    second: {fileID: 2100000, guid: 0e449cb12e2f1a847aac841b6677fe1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mShirt04.1
+    second: {fileID: 2100000, guid: 8c61c72c3e436d84c851c6ab7cf06ee8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mShirtGriffin01
+    second: {fileID: 2100000, guid: 17a92e22265d5004bac65d4d72dea1be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mShirtGriffin02
+    second: {fileID: 2100000, guid: 305477181b42e704eb39ff37082b36f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mShirtGriffin03
+    second: {fileID: 2100000, guid: d1e258b9154cb064eb71586e12764b46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mShirtGriffin04
+    second: {fileID: 2100000, guid: 5d908c501e1f29b49ad5530aea454478, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mShirtGriffin05
+    second: {fileID: 2100000, guid: e1ee7906b6a1af64d86023cadda570f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mShirtGriffin06
+    second: {fileID: 2100000, guid: 9b53ba68eb9f58f4ead56d4cbfb80eef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mShoesM02
+    second: {fileID: 2100000, guid: 9d175625d4e30de4d8af5393b5398883, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mShoesM02.1
+    second: {fileID: 2100000, guid: 16734cdb1d5618141bb414b98e8ca5da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mShoesM02.2
+    second: {fileID: 2100000, guid: 4e4815abc97bc324fa3b39a963fd06c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mSkin03
+    second: {fileID: 2100000, guid: 020fa3d6075b0fa449f35ce255e97b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mUnderPantsGriffin01
+    second: {fileID: 2100000, guid: 79d95a66902e5664bb2d8161001f1b49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mUnderPantsGriffin02
+    second: {fileID: 2100000, guid: 910a93a8c69c4d24bb4c9a939aeca7e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: muUndershirt
+    second: {fileID: 2100000, guid: d248e0b2a318af745bc881dddeb087f0, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
